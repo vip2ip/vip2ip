@@ -7,7 +7,7 @@ CEO & Python Developer
 I specialise in developing Telegram bots of any complexity using the AIOGRAM framework, which gives unlimited possibilities in the functionality of bots.
 
 * 🌍  I'm based in Ukraine
-* ✉️  You can contact me at [t.me/vip2ip](mailto:t.me/vip2ip)
+* ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vip2ip)
 * 🧠  I'm learning AIOGRAM v3
 
 <a href="https://www.x.com/tur_artem" target="_blank" rel="noreferrer"><img
