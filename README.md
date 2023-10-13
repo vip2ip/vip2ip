@@ -4,11 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CEO & Python Developer
 ----------------------
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-I specialise in developing Telegram bots of any complexity using the AIOGRAM framework, which gives unlimited possibilities in the functionality of bots.
+I specialize in developing Telegram bots of any complexity using the AIOGRAM framework, which gives unlimited possibilities in the functionality of bots.
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-vip2ip-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vip2ip)
