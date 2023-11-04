@@ -8,7 +8,7 @@ I specialize in developing Telegram bots of any complexity using the AIOGRAM fra
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-vip2ip-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vip2ip)
-* 🧠  I'm learning aiogram 3 and dialogflow
+* 🧠  I'm learning aiogram 3, dialogflow, api chatgpt
 
 <a href="https://www.x.com/tur_artem" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/tur_artem?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
