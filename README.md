@@ -2,7 +2,7 @@ Chatbots of any complexity using AI technologies
 =================================================================================================================================================================
 
 CEO & Python Developer
------------------------
+------------------------
 
 I specialize in developing Telegram bots of any complexity using the AIOGRAM framework, which gives unlimited possibilities in the functionality of bots.
 
