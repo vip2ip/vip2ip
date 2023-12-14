@@ -4,7 +4,13 @@ Chatbots of any complexity using AI technologies
 CEO & Python Developer
 ------------------------
 
-I specialize in developing Telegram bots of any complexity using the AIOGRAM framework, which gives unlimited possibilities in the functionality of bots.
+Hello, I am a Python developer with 3 years of experience.
+
+My main area of interest is Telegram Bot API projects on Aiogram, but my knowledge and experience is not limited to that. 
+
+I have experience with Python, Telegram API, Postgres, Docker, Redis, and Nginx, AWS Server.
+
+I also have experience in developing chatbots on different no-code platforms such as DialogFlow, SendPulse, Manychat, Openai Assistant.
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-vip2ip-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vip2ip)
