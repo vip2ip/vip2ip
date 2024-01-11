@@ -2,7 +2,7 @@ Chatbots of any complexity using AI technologies
 =================================================================================================================================================================
 
 CEO & Python Developer
--------------------------
+--------------------------
 
 Hello, I am a Python developer with 3 years of experience.
 My main area of interest is Telegram Bot API projects on Aiogram, but my knowledge and experience is not limited to that. 
