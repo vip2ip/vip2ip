@@ -35,4 +35,8 @@ src="https://img.shields.io/twitter/follow/tur_artem?logo=twitter&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/vip2ip"><img src="https://github-readme-stats.vercel.app/api?username=vip2ip&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="vip2ip's GitHub stats" /></a>
+
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=latand&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="vip2ip" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=latand&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="vip2ip" align = "center"/></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=latand&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="vip2ip" 
