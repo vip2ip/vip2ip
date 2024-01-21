@@ -1,6 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&multiline=true&random=false&width=450&lines=Telegram+chatbots;of+any+complexity+in+Python;using+innovative+technologies;and+artificial+intelligence.)](https://git.io/typing-svg)
-
-
 =================================================================================================================================================================
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F7F7F7&repeat=false&random=false&width=435&lines=CEO+%26+Python+developer)](https://git.io/typing-svg)
 --------------------------
