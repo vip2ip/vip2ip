@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35B7F0&random=false&width=435&lines=Telegram+chatbots+of+any+complexity!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&random=false&width=435&lines=Telegram+chatbots+of+any+complexity!)](https://git.io/typing-svg)
 =================================================================================================================================================================
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35B7F0&random=false&width=435&lines=CEO+%26+Python+Developer)](https://git.io/typing-svg)
