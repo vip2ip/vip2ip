@@ -18,7 +18,7 @@ But now I represent my team of professional Python programmers, who are ready to
  *  🧠  I'm learning aiogram 3, dialogflow, api chatgpt
 
 <a href="https://www.x.com/vip2ip" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/vip2ip?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
+
 /></a>
 
 
