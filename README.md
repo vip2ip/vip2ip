@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&multiline=true&random=false&width=435&lines=Telegram+bots+development%2C+advanced+backend+for+any+tasks.;backend+for+any+tasks.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&multiline=true&random=false&width=435&lines=Telegram+bots+development+%2B+advanced+backend+for+any+tasks.;backend+for+any+tasks)](https://git.io/typing-svg)
 =====================================================================================================================================================================================================
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F7F7F7&repeat=false&random=false&width=435&lines=CEO+%26+Python+developer)](https://git.io/typing-svg)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
