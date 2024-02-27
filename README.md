@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://i.ibb.co/f2RcGqj/My-photo-CV.png"></img></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+represent+a+team+of+python+developers)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&random=false&width=435&lines=I+represent+a+team+of+python+developers)](https://git.io/typing-svg)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Saport Ukraine](https://camo.githubusercontent.com/a525a454f7a24fe71586bdb0fd4200fd5a008ac5c2151d605659832c8f50a1fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537570706f72742d556b7261696e652d4646443530303f7374796c653d666c6174266c6162656c436f6c6f723d303035424242)
