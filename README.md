@@ -7,11 +7,11 @@
 
 Hello, I am a Python developer with over 3 years of experience.
 
-My main area of interest is Telegram Bot API projects on Aiogram, but my expertise is not limited to that.
-I have experience with Python, Telegram API, Postgres, SQLAlchemy, Docker, Redis and Nginx, AWS Server.
-I also have experience developing chatbots on various no-code platforms such as DialogFlow, SendPulse, Manychat, Openai Assistant.
+- My main area of interest is Telegram Bot API projects on Aiogram, but my expertise is not limited to that.
+- I have experience with Python, Telegram API, Postgres, SQLAlchemy, Docker, Redis and Nginx, AWS Server.
+- I also have experience developing chatbots on various no-code platforms such as DialogFlow, SendPulse, Manychat, Openai Assistant.
 
-I also represent a team of professional Python programmers, who are ready to take on any task and fulfill it qualitatively and on time.
+ - But now I represent my team of professional Python programmers, who are ready to take on any task and fulfill it qualitatively and on time.
 
  *  🌍  I'm based in Ukraine
  *  ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-vip2ip-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vip2ip)
