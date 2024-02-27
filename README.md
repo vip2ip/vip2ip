@@ -5,11 +5,11 @@
 
 ![Saport Ukraine](https://camo.githubusercontent.com/a525a454f7a24fe71586bdb0fd4200fd5a008ac5c2151d605659832c8f50a1fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537570706f72742d556b7261696e652d4646443530303f7374796c653d666c6174266c6162656c436f6c6f723d303035424242)
 
-Hello, I am a Python developer with over 3 years of experience.
+* Hello, I am a Python developer with over 3 years of experience.
 My main area of interest is Telegram Bot API projects on Aiogram, but my expertise is not limited to that.
 I have experience with Python, Telegram API, Postgres, SQLAlchemy, Docker, Redis and Nginx, AWS Server.
 I also have experience developing chatbots on various no-code platforms such as DialogFlow, SendPulse, Manychat, Openai Assistant.
-I also represent a team of professional Python programmers, who are ready to take on any task and fulfill it qualitatively and on time.
+* I also represent a team of professional Python programmers, who are ready to take on any task and fulfill it qualitatively and on time.
 
  *  🌍  I'm based in Ukraine
  *  ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-vip2ip-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vip2ip)
