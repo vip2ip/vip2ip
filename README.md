@@ -12,7 +12,7 @@
 - My main area of interest is Telegram Bot API projects on Aiogram, but my expertise is not limited to that.
 - I have experience with Python, Telegram API, Postgres, SQLAlchemy, Docker, Redis and Nginx, AWS Server.
 - I also have experience developing chatbots on various no-code platforms such as DialogFlow, SendPulse, Manychat, Openai Assistant.
-- But now I represent my team of professional Python programmers, who are ready to take on any task and fulfill it qualitatively and on time.
+- But now I represent my team of professional Python programmers, who are ready to take on any task and fulfill it qualitatively and on time. 
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&color=F7F7F7&multiline=true&random=false&width=435&lines=My+skills)](https://git.io/typing-svg)
