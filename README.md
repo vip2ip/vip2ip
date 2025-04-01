@@ -1,7 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&multiline=true&random=false&width=435&lines=Telegram+bots+development+%2B+advanced+backend+for+any+tasks.;backend+for+any+tasks)](https://git.io/typing-svg)
 =====================================================================================================================================================================================================
 
-<p align="center"><img src="[https://i.ibb.co/f2RcGqj/My-photo-CV.png]"></img></p>  
+<p align="center">
+    <img src="https://i.ibb.co/f2RcGqj/My-photo-CV.png" alt="My Photo CV">
+</p>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&random=false&width=435&lines=I+represent+a+team+of+python+developers)](https://git.io/typing-svg)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
