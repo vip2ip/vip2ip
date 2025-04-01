@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&multiline=true&random=false&width=435&lines=Telegram+bots+development+%2B+advanced+backend+for+any+tasks.;backend+for+any+tasks)](https://git.io/typing-svg)
 =====================================================================================================================================================================================================
 
-<p align="center"><img src="https://i.ibb.co/f2RcGqj/My-photo-CV.png"></img></p>
+<p align="center"><img src="[https://i.ibb.co/f2RcGqj/My-photo-CV.png](https://i.pinimg.com/736x/40/2e/8e/402e8eec1d21d852cc2ddd4d21b5ea31.jpg)"></img></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&random=false&width=435&lines=I+represent+a+team+of+python+developers)](https://git.io/typing-svg)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
